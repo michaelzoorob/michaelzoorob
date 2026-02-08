@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelzoorob
-- 👀 I’m interested in quantiative social science, causal infernece, cities, politics, crime and policing, addiction and substance use.
+- 👀 I’m interested in quantitative social science, causal infernece, cities, politics, crime and policing, addiction and substance use.
 - 📫 How to reach me: mzoorob@gmail.com
 
 <!---
